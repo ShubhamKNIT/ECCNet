@@ -12,8 +12,8 @@ Deep learning experiments for esophageal cancer cell image classification using 
 ## Dataset
 - **Source**: cbiocancer
 - **Storage**: 
-    - Raw Dataset: ![Click Here](https://drive.google.com/file/d/1ICCSyNCVzsdQbTxOz9TDrmJo-M54LVQA/view?usp=drive_link)
-    - Generated Dataset: ![Click Here](https://drive.google.com/file/d/1e2E8K9s-5j61owKJ8wCIpdZd4e7MFtQD/view?usp=drive_link)
+    - Raw Dataset: <a href='https://drive.google.com/file/d/1ICCSyNCVzsdQbTxOz9TDrmJo-M54LVQA/view?usp=drive_link'>Click Here</a>
+    - Generated Dataset: <a href='https://drive.google.com/file/d/1e2E8K9s-5j61owKJ8wCIpdZd4e7MFtQD/view?usp=drive_link'>Click Here</a>
 
 To access the dataset in Colab:
 ```python
